@@ -1,0 +1,8 @@
+CommonFiles contains files used in many large power system models.
+
+ssc_dpl_cb.m: initialization file for the SimScape Decoupling Distributed Parameter Line model.
+stub_cb.m: initialization file for the SimScape Stubline model.
+simetran.slx: library of SimScape Electrical models
+
+MATE3phVIMeasurementParams.p
+MATE3phVIMeasurementCb.p     % callbacks for 3-phase VI MATE mesure block
