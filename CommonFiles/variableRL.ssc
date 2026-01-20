@@ -1,0 +1,48 @@
+component variableRL < foundation.electrical.branch
+% simple Variable RL (series or parallel)
+% Models a linear variable inductor and resistor.
+% Param=0->Series-RL 
+% Param=1->Parallel-RL
+
+
+inputs
+    L = { 1e-6, 'H' }; % L:left
+    R = { 1e-6, 'Ohm' }; % R:left
+end
+
+% nodes
+%     p = foundation.electrical.electrical; % +:left
+%     n = foundation.electrical.electrical; % -:right
+% end
+% 
+% branches
+%     i : p.i -> n.i;
+% end
+
+parameters
+    g  = { 1e-9, '1/Ohm' }; % Parallel conductance
+    typ  = 0 ; % 0 series 1 parallel
+end
+
+variables
+    iL = {value = { 0, 'A' }, priority = priority.high}; % Inductor current
+    % v = { 0, 'V' }; % Voltage 
+    % i = { 0, 'A' }; % Current 
+end
+
+
+
+
+equations
+    
+    if typ < 0.5     % series RL
+        v == iL*R + L*iL.der;
+        i == iL + v*g;
+    else             % parallel RL
+        i == v/R + iL ;
+        v == L*iL.der;
+    end
+
+end
+
+end
