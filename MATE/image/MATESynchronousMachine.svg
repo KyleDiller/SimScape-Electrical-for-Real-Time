@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="375" height="400" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-default {
+				font-size: 38px; stroke-width: 0.95px;
+			}
+					</style>
+	</defs>
+	<g id="part_1" title="part_0" ie-ports="left:simulink*simulink,top:,right:simulink*simulink,bottom:">
+		<ellipse id="ellipse" class="ellipse" style="stroke-width:2;" cx="188.5" cy="194" rx="138" ry="141"/>
+		<path id="path" class="path" d=" M 120.01,106.81 Q 152.25,75.81 187.5,75.81 Q 222.75,75.81 261.01,106.81"/>
+		<path id="path_67" class="path" d=" M 120.01,280.81 Q 152.25,315.81 187.5,315.81 Q 222.75,315.81 261.01,280.81"/>
+		<line id="line" class="line" x1="261.01" y1="280.81" x2="261.01" y2="246.81"/>
+		<line id="line_82" class="line" x1="261.01" y1="106.81" x2="261.01" y2="135.81"/>
+		<line id="line_99" class="line" x1="120.01" y1="106.81" x2="120.01" y2="135.81"/>
+		<line id="line_131" class="line" x1="120.01" y1="280.81" x2="120.01" y2="246.81"/>
+		<line id="line_197" class="line" x1="120.01" y1="246.81" x2="146.01" y2="246.81"/>
+		<line id="line_198" class="line" x1="120.01" y1="135.81" x2="146.01" y2="135.81"/>
+		<line id="line_199" class="line" x1="236.51" y1="135.81" x2="261.01" y2="135.81"/>
+		<line id="line_221" class="line" x1="261.01" y1="246.81" x2="236.51" y2="246.81"/>
+		<line id="line_253" class="line" x1="236.51" y1="135.81" x2="236.51" y2="246.81"/>
+		<line id="line_280" class="line" x1="146.01" y1="135.81" x2="146.01" y2="246.81"/>
+		<ellipse id="ellipse_302" class="ellipse" cx="190.52" cy="186.25" rx="6.25" ry="7.75"/>
+		<line id="line_350" class="line" x1="146.01" y1="168.81" x2="236.51" y2="161.81"/>
+		<line id="line_412" class="line" x1="146.01" y1="161.81" x2="236.51" y2="155.81"/>
+		<line id="line_440" class="line" x1="146.01" y1="155.81" x2="236.51" y2="149.81"/>
+		<line id="line_441" class="line" x1="146.01" y1="228.81" x2="236.51" y2="221.81"/>
+		<line id="line_442" class="line" x1="146.01" y1="221.81" x2="236.51" y2="215.81"/>
+		<line id="line_443" class="line" x1="146.01" y1="215.81" x2="236.51" y2="209.81"/>
+		<text id="text" class="text font-size-default" x="176.79" y="85.57">
+			<tspan dx="0" dy="34.69" x="176.79">N</tspan>
+		</text>
+		<text id="text_444" class="text font-size-default" x="178.88" y="263.81">
+			<tspan dx="0" dy="34.69" x="178.88">S</tspan>
+		</text>
+		<ellipse id="ellipse_498" class="ellipse" style="fill:none;" cx="189.25" cy="194" rx="129.75" ry="135"/>
+		<line id="line_526" class="line" x1="146.01" y1="149.81" x2="236.51" y2="144.81"/>
+		<line id="line_550" class="line" x1="146.01" y1="235.81" x2="236.51" y2="228.81"/>
+	</g>
+</svg>
