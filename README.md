@@ -26,4 +26,6 @@ HVDC-MMC-200cellsPerArms: a full HVDC MMC bipolar link with distributed paramete
 
 HVDC_bipolar_Thyristor: a full HVDC bipolar link with distributed parameter lines, switched filter/reactive power compensation banks. Ready for concurent/parallel execution on SpeedGoat, using 4 different tasks.
 
+Machines/  : contain many machine types (Synchronous, induction) designed with constant Jacobian (admittance), best for real-time simulation because the SimScape solver do not need to refactorize its equations for these node (assuming that the SimScape solver can optimally order its nodes).
+
 - Cite as Kyle Diller, SimScape Electrical models for real-time, 2026.
