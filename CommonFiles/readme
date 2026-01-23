@@ -6,3 +6,5 @@ simetran.slx: library of SimScape Electrical models
 
 MATE3phVIMeasurementParams.p
 MATE3phVIMeasurementCb.p     % callbacks for 3-phase VI MATE mesure block
+sfun_discrete*  : taken from SPS, these are optimized variable delay blocks. If IP is of concern to you, you can replace them with native Simulink blocks
+discreteVariable*  : taken from SPS, these are optimized variable delay blocks. If IP is of concern to you, you can replace them with native Simulink blocks
