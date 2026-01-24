@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="394" height="197" d:options="Foreground:PortStyled;Background:Transparent;PreserveAspect:On;StrokeScaling:PortStyled;StrokeScalingOnResize:NonScaling;LineExtension:On;Rotate:On;Resize:FitToBlock;Frame:Adaptive;PreAdjustStrokeWidth:Normalized;TextScalingOnResize:Constant;Geometric:Off;Port:Auto Majority;">
+	<g id="part" title="part_0" ie-ports="left:input*input*foundation-electrical-electrical,top:,right:foundation-electrical-electrical,bottom:">
+		<path id="frame" class="customBlockFrame dvg-locked" style="fill:#ffffff;" visibility="hidden" d=" M 394,98.5 C 394,153.17 349.68,197 314.02,197 Q 278.32,197 197,197 Q 115.67,197 79.98,197 C 44.33,197 0,153.41 0,98.5 C 0,43.56 44.33,0 79.98,0 Q 115.67,0 197,0 Q 278.32,0 314.02,0 C 349.68,0 394,44.33 394,98.5 Z"/>
+		<path id="Inductor" class="path" d=" M 122,98.06 L 131.85,98.06 Q 133.82,82.3 141.7,82.3 Q 149.58,82.3 151.55,98.06 Q 153.52,82.3 161.4,82.3 Q 169.28,82.3 171.25,98.06 Q 173.22,82.3 181.1,82.3 Q 188.98,82.3 190.95,98.06 L 200.8,98.06"/>
+		<path id="Resistor" class="path" d=" M 200.8,98.06 L 208.33,98.06 L 212.09,87.21 L 219.61,108.91 L 227.14,87.21 L 234.66,108.91 L 242.19,87.21 L 249.71,108.91 L 257.24,87.21 L 264.76,108.91 L 268.52,98.06 L 276.05,98.06"/>
+		<line id="line" class="line ie-marker" data-end-params="scale:1x1;flipped:off" style="marker-end:url(#triangleFilled_c2NhbGU6MXgxO2ZsaXBwZWQ6b2ZmOw==);" x1="140" y1="60.3" x2="177.01" y2="119.31"/>
+		<line id="line_1" class="line ie-marker" data-end-params="scale:1x1;flipped:off" style="marker-end: url(#triangleFilled_c2NhbGU6MXgxO2ZsaXBwZWQ6b2ZmOw==);" x1="216" y1="65" x2="253.01" y2="124.01"/>
+	</g>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="400" height="290" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-default {
+				font-size: 29px; stroke-width: 0.72px;
+			}
+			.font-size-xs {
+				font-size: 20px; stroke-width: 0.5px;
+			}
+					</style>
+	</defs>
+	<g id="part_1" title="part_0" ie-ports="left:simulink*simulink,top:,right:simulink*simulink*simulink,bottom:">
+		<line id="line" class="line" x1="168.33" y1="30.05" x2="168.33" y2="45.31"/>
+		<line id="line_41" class="line" x1="168.33" y1="45.31" x2="149.33" y2="62.81"/>
+		<line id="line_64" class="line" x1="149.33" y1="54.06" x2="149.33" y2="76.81"/>
+		<line id="line_120" class="line" x1="149.33" y1="68.43" x2="168.33" y2="79.81"/>
+		<line id="line_172" class="line" x1="168.33" y1="79.81" x2="168.33" y2="103.81"/>
+		<line id="line_185" class="line" x1="168.33" y1="103.81" x2="149.33" y2="118.81"/>
+		<line id="line_215" class="line" x1="149.33" y1="105.81" x2="149.33" y2="133.81"/>
+		<line id="line_238" class="line" x1="149.33" y1="122.81" x2="168.33" y2="136.81"/>
+		<line id="line_261" class="line" x1="168.33" y1="136.81" x2="168.33" y2="152.29"/>
+		<line id="line_272" class="line" x1="163.59" y1="74.12" x2="168.33" y2="79.81"/>
+		<line id="line_287" class="line" x1="166.96" y1="78.96" x2="159.83" y2="78.96"/>
+		<line id="line_294" class="line" x1="168.33" y1="136.81" x2="163.39" y2="129.81"/>
+		<line id="line_302" class="line" x1="168.33" y1="136.81" x2="162.5" y2="136.81"/>
+		<line id="line_303" class="line" x1="279.79" y1="29.53" x2="279.79" y2="44.27"/>
+		<line id="line_304" class="line" x1="279.79" y1="44.27" x2="260.79" y2="61.77"/>
+		<line id="line_305" class="line" x1="260.79" y1="53.02" x2="260.79" y2="75.77"/>
+		<line id="line_306" class="line" x1="260.79" y1="67.39" x2="279.79" y2="78.77"/>
+		<line id="line_307" class="line" x1="279.79" y1="78.77" x2="279.79" y2="102.77"/>
+		<line id="line_308" class="line" x1="279.79" y1="102.77" x2="260.79" y2="117.77"/>
+		<line id="line_309" class="line" x1="260.79" y1="104.77" x2="260.79" y2="132.77"/>
+		<line id="line_310" class="line" x1="260.79" y1="121.77" x2="279.79" y2="135.77"/>
+		<line id="line_311" class="line" x1="279.79" y1="135.77" x2="279.79" y2="151.77"/>
+		<line id="line_312" class="line" x1="275.05" y1="73.08" x2="279.79" y2="78.77"/>
+		<line id="line_313" class="line" x1="278.42" y1="77.92" x2="271.29" y2="77.92"/>
+		<line id="line_314" class="line" x1="279.79" y1="135.77" x2="274.85" y2="128.77"/>
+		<line id="line_315" class="line" x1="279.79" y1="135.77" x2="273.96" y2="135.77"/>
+		<line id="line_329" class="line" x1="168.33" y1="91.81" x2="227.78" y2="90.8"/>
+		<line id="line_374" class="line" x1="279.79" y1="29.53" x2="84.66" y2="30.57"/>
+		<line id="line_400" class="line" x1="279.79" y1="151.77" x2="84.66" y2="152.81"/>
+		<text id="text" class="text font-size-default" x="183.45" y="96.81">
+			<tspan dx="0" dy="26.19" x="183.45">A</tspan>
+		</text>
+		<text id="text_401" class="text font-size-default" x="294.29" y="99.71">
+			<tspan dx="0" dy="26.19" x="294.29">B</tspan>
+		</text>
+		<rect id="rect" class="rect" x="116.33" y="173.71" width="92.98" height="42.43" rx="0" ry="0"/>
+		<line id="line_412" class="line" x1="116.33" y1="182.36" x2="97.33" y2="182.36"/>
+		<line id="line_423" class="line" x1="116.33" y1="207.5" x2="97.33" y2="207.5"/>
+		<line id="line_437" class="line" x1="208.79" y1="182.36" x2="227.79" y2="182.36"/>
+		<line id="line_459" class="line" x1="208.79" y1="207.5" x2="227.79" y2="207.5"/>
+		<text id="text_460" class="text font-size-xs" x="249.84" y="171.77">
+			<tspan dx="0" dy="18.41" x="249.84">B</tspan>
+		</text>
+		<text id="text_461" class="text font-size-xs" x="249.73" y="196.91">
+			<tspan dx="0" dy="18.41" x="249.73">A</tspan>
+		</text>
+		<rect id="rect_462" class="rect" x="116.33" y="223.1" width="92.98" height="42.43" rx="0" ry="0"/>
+		<line id="line_463" class="line" x1="116.33" y1="231.75" x2="97.33" y2="231.75"/>
+		<line id="line_464" class="line" x1="116.33" y1="256.89" x2="97.33" y2="256.89"/>
+		<line id="line_465" class="line" x1="208.79" y1="231.75" x2="227.79" y2="231.75"/>
+		<line id="line_466" class="line" x1="208.79" y1="256.89" x2="227.79" y2="256.89"/>
+		<text id="text_467" class="text font-size-xs" x="249.84" y="221.16">
+			<tspan dx="0" dy="18.41" x="249.84">B</tspan>
+		</text>
+		<text id="text_468" class="text font-size-xs" x="249.73" y="246.3">
+			<tspan dx="0" dy="18.41" x="249.73">A</tspan>
+		</text>
+		<line id="line_494" class="line" x1="279.78" y1="90.76" x2="335.82" y2="90.77"/>
+		<ellipse id="ellipse_517" class="ellipse" cx="338.29" cy="90.77" rx="5.21" ry="6"/>
+		<line id="line_553" class="line" x1="227.78" y1="90.81" x2="227.78" y2="112.97"/>
+		<line id="line_572" class="line" x1="227.79" y1="207.5" x2="227.79" y2="231.75"/>
+		<line id="line_580" class="line" x1="227.79" y1="256.89" x2="227.79" y2="269.03"/>
+		<line id="line_618" class="line" x1="227.79" y1="269.03" x2="335.82" y2="269.03"/>
+		<ellipse id="ellipse_619" class="ellipse" cx="341.03" cy="267.66" rx="5.21" ry="6"/>
+		<line id="line_633" class="line" x1="227.79" y1="182.36" x2="227.77" y2="152.29"/>
+		<ellipse id="ellipse_656" class="ellipse" style="fill:#000000;" cx="227.79" cy="121.77" rx="3.71" ry="5.28"/>
+		<ellipse id="ellipse_657" class="ellipse" style="fill:#000000;" cx="227.79" cy="139.72" rx="3.71" ry="5.28"/>
+		<ellipse id="ellipse_658" class="ellipse" style="fill:#000000;" cx="227.78" cy="157.57" rx="3.71" ry="5.28"/>
+		<text id="text_659" class="text font-size-default" x="24.61" y="72.5">
+			<tspan dx="0" dy="26.19" x="24.61">Vdc_1</tspan>
+		</text>
+		<text id="text_660" class="text font-size-xs" x="32.48" y="182.36">
+			<tspan dx="0" dy="18.41" x="32.48">Vdc_n-1</tspan>
+		</text>
+		<text id="text_661" class="text font-size-xs" x="32.33" y="231.75">
+			<tspan dx="0" dy="18.41" x="32.33">Vdc_n</tspan>
+		</text>
+		<text id="text_2" class="text font-size-default" x="308.51" y="45.36">
+			<tspan dx="0" dy="26.19" x="308.51">Vac+</tspan>
+		</text>
+		<text id="text_3" class="text font-size-default" x="303.8" y="219.63">
+			<tspan dx="0" dy="26.19" x="303.8">Vac-</tspan>
+		</text>
+	</g>
+</svg>

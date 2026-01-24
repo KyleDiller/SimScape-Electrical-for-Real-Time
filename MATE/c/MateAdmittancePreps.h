@@ -1,0 +1,1 @@
+int MateAdmittancePreps(double Ad[], double Bd2[], double Cd[], double Dd[],double Yperm[],double Cinj_perm[], double Dinj_perm[], double z_perm[], double x_perm[], double B2inj_perm[], int NSTATE, int NINPUT, int NOUTPUT, int NNODE, int NITYPE);

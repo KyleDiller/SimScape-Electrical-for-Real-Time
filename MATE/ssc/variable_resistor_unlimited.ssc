@@ -1,0 +1,67 @@
+component variable_resistor_unlimited
+% Variable Resistor :1.5
+% Models a linear variable resistor. The relationship between voltage V
+% and current I is V=I*R where R is the numerical value presented at the
+% physical signal port R. 
+%
+
+
+inputs
+    R = { 1e-9, 'Ohm' }; % R:left
+end
+
+nodes
+    p = foundation.electrical.electrical; % +:left
+    n = foundation.electrical.electrical; % -:right
+end
+
+
+
+parameters
+    R0 = { 0, 'Ohm' }; % Zero
+    Rmaxp = { 1e6, 'Ohm' }; % Max positive resistance
+    Rmaxn = { -1e6, 'Ohm' }; % Min negative resistance
+    Rminp = { 1e-6, 'Ohm' }; % Min positive resistance
+    Rminn = { -1e-6, 'Ohm' }; % Min negative resistance
+
+end
+
+
+
+variables
+    i = { 0, 'A' }; % Current
+    v = { 0, 'V' }; % Voltage
+end
+
+
+
+branches
+    i : p.i -> n.i;
+end
+
+
+
+equations
+  
+    v == p.v - n.v;
+    
+    % if R > Rmaxp
+    %     v == i*Rmaxp;
+    % elseif R < Rmaxn
+    %     v == i*Rmaxp
+    % elseif (R < Rminp) & (R > R0)
+    %     v == i*Rminp
+    % elseif (R > Rminn) & (R < R0)
+    %     v == i*Rminn
+    % else
+         v == i*R;
+        %i == v/R;
+    % end
+end
+
+annotations
+    Icon = 'resistor_unlimited.svg';
+end
+
+
+end

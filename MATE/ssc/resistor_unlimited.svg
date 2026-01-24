@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="380" height="400" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<g id="part" title="part_0" ie-ports="left:,top:,right:simulink*simulink,bottom:">
+		<path id="Resistor" class="path" d=" M 106.01,192.06 L 124.01,192.06 L 133.01,159.31 L 151.01,224.81 L 169.01,159.31 L 187.01,224.81 L 205.01,159.31 L 223.01,224.81 L 241.01,159.31 L 259.01,224.81 L 268.01,192.06 L 286.01,192.06"/>
+		<line id="line" class="line ie-marker" data-end-params="scale:1x1;flipped:off" style="marker-end:url(#triangleFilled_c2NhbGU6MXgxO2ZsaXBwZWQ6b2ZmOw==);" x1="149.01" y1="266.81" x2="226.01" y2="119.81"/>
+	</g>
+</svg>

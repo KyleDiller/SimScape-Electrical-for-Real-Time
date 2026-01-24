@@ -1,0 +1,2 @@
+int MateDiscretize(double A[], double B1[],double B2[], double C[], double D[], double h, int opt, int holdtype, int NSTA, int NIN, int NOUT);
+int MatePermutize(double Amm[], double Bmm[], double Cmm[], double Dmm[], double Rswitch[],int permutation, int NSTATE, int NINPUT, int NOUTPUT, int NSWITCH);

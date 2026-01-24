@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="400" height="144" d:options="Background:Transparent;PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-m {
+				font-size: 26px; stroke-width: 0.65px;
+			}
+					</style>
+	</defs>
+	<g id="part_1" title="part_0" ie-ports="left:simulink*simulink*simulink*simulink,top:,right:simulink*simulink,bottom:">
+		<line id="line" class="line" x1="180.5" y1="9.6" x2="180" y2="50.31"/>
+		<line id="line_40" class="line" x1="180" y1="50.31" x2="150" y2="82.81"/>
+		<line id="line_73" class="line" x1="150" y1="82.81" x2="211" y2="82.81"/>
+		<line id="line_115" class="line" x1="211" y1="82.81" x2="180" y2="50.31"/>
+		<line id="line_157" class="line" x1="180.5" y1="82.81" x2="180.5" y2="121.81"/>
+		<line id="line_196" class="line" x1="150" y1="50.31" x2="211" y2="50.31"/>
+		<line id="line_245" class="line" x1="180" y1="50.31" x2="158" y2="27.81"/>
+		<line id="line_262" class="line" x1="158" y1="27.81" x2="142" y2="27.81"/>
+		<text id="text" class="text font-size-m" x="217.01" y="52.05">
+			<tspan dx="0" dy="23.36" x="217.01">6</tspan>
+		</text>
+	</g>
+</svg>
